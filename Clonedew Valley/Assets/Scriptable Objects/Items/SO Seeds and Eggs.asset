@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356f584206f986c419ee6216a6f07cb7, type: 3}
+  m_Name: SO Seeds and Eggs
+  m_EditorClassIdentifier: 
+  itemDetails:
+  - itemNumber: 10025
+    itemType: 0
+    itemDescription: Pumpkin Seeds
+    itemSprite: {fileID: -918030910, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10026
+    itemType: 1
+    itemDescription: Pumpkin
+    itemSprite: {fileID: -919739725, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10003
+    itemType: 0
+    itemDescription: Lettuce Seeds
+    itemSprite: {fileID: 628974743, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10004
+    itemType: 1
+    itemDescription: Lettuce
+    itemSprite: {fileID: 1989955017, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10005
+    itemType: 0
+    itemDescription: Carrot Seeds
+    itemSprite: {fileID: 1699156454, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10006
+    itemType: 1
+    itemDescription: Carrot
+    itemSprite: {fileID: -2122042744, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10007
+    itemType: 0
+    itemDescription: Wheat Seeds
+    itemSprite: {fileID: 457029312, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10008
+    itemType: 4
+    itemDescription: Wheat
+    itemSprite: {fileID: 944868852, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10009
+    itemType: 0
+    itemDescription: Potato Seeds
+    itemSprite: {fileID: 1223147081, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10010
+    itemType: 1
+    itemDescription: Potato
+    itemSprite: {fileID: -853545499, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10011
+    itemType: 0
+    itemDescription: Strawberry Seeds
+    itemSprite: {fileID: 975249760, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10012
+    itemType: 2
+    itemDescription: Strawberry
+    itemSprite: {fileID: 21869452, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10013
+    itemType: 0
+    itemDescription: Tomato Seeds
+    itemSprite: {fileID: 770890459, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10014
+    itemType: 1
+    itemDescription: Tomato
+    itemSprite: {fileID: -899385959, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10015
+    itemType: 0
+    itemDescription: Eggplant Seeds
+    itemSprite: {fileID: 1914689194, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10016
+    itemType: 1
+    itemDescription: Eggplant
+    itemSprite: {fileID: -1866604863, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10017
+    itemType: 0
+    itemDescription: Onion Seeds
+    itemSprite: {fileID: 1107445642, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10018
+    itemType: 1
+    itemDescription: Onion
+    itemSprite: {fileID: -1818631137, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10019
+    itemType: 0
+    itemDescription: Corn Seeds
+    itemSprite: {fileID: 1053146009, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10020
+    itemType: 1
+    itemDescription: Corn
+    itemSprite: {fileID: 427346184, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10021
+    itemType: 0
+    itemDescription: Green Bean Seeds
+    itemSprite: {fileID: 93262546, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10022
+    itemType: 1
+    itemDescription: Green Bean
+    itemSprite: {fileID: -322253770, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10023
+    itemType: 3
+    itemDescription: White Egg
+    itemSprite: {fileID: -858832891, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10024
+    itemType: 3
+    itemDescription: Brown Egg
+    itemSprite: {fileID: -1506462735, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 1
+    canBeCarried: 1
