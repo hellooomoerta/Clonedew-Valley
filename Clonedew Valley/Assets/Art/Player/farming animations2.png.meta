@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9800e78ac4a9ca2469e5f9c7eb837e03
+guid: ddbcde533f122184ca4949cf1b798e49
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -136,7 +136,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: farming animations_0
+      name: farming animations2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d385aed7ebbe374f96e7c7c3d6303ec
+      internalID: -737819551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming animations2_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552fb0ff22cea794798010a34c815971
+      internalID: -1878215548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming animations2_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d954feabf91ce42b2cd0a9de716066
+      internalID: -397462521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming animations2_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05edd107cd08624aa58c35fb5444a3d
+      internalID: 1083784151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: farming animations2_4
       rect:
         serializedVersion: 2
         x: 0
@@ -150,14 +234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f6fe94dcf3c279458860c0c26c29037
-      internalID: -738902627
+      spriteID: aa6f663a165eac44da90e515918b9cee
+      internalID: 219655259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_1
+      name: farming animations2_5
       rect:
         serializedVersion: 2
         x: 24
@@ -171,14 +255,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22662bf6d2863be4ca63ea0dacec8810
-      internalID: -355357295
+      spriteID: b3334c75f34ab154fbc949285e87cb97
+      internalID: 534002838
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_2
+      name: farming animations2_6
       rect:
         serializedVersion: 2
         x: 48
@@ -192,14 +276,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 334b9e5e52a209344afcb5a913b63438
-      internalID: -983585945
+      spriteID: 03ca38735665532418e1e6d59370e15b
+      internalID: -793613847
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_3
+      name: farming animations2_7
       rect:
         serializedVersion: 2
         x: 72
@@ -213,14 +297,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5885c30e1773dd343b897ca93d4bb17f
-      internalID: -862259788
+      spriteID: 0ef68243a3e2fd64581523bb5fd6375a
+      internalID: -213514146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_4
+      name: farming animations2_8
       rect:
         serializedVersion: 2
         x: 0
@@ -234,14 +318,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6d5a85dd4a4c5942a5cf46363e7dc1a
-      internalID: -548068466
+      spriteID: ca8bd5082acc08544a07d2f1ae569d60
+      internalID: 757169488
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_5
+      name: farming animations2_9
       rect:
         serializedVersion: 2
         x: 24
@@ -255,14 +339,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf8543afd2558064a8d516023babad72
-      internalID: -938162424
+      spriteID: 7152a4518164c1245a4684fd77d9ce6f
+      internalID: 1469792765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_6
+      name: farming animations2_10
       rect:
         serializedVersion: 2
         x: 48
@@ -276,14 +360,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0aa98f3f6f50a841b21392e5ab35da1
-      internalID: 1950393110
+      spriteID: 6691e1357a4985e4287f1b5ea706c5ec
+      internalID: -1362040975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_7
+      name: farming animations2_11
       rect:
         serializedVersion: 2
         x: 72
@@ -297,14 +381,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3885b89b894f3b4ea9768ac20398632
-      internalID: 59116284
+      spriteID: 8cdc9a99761686a4a95baa1d343ad97e
+      internalID: 683234438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_8
+      name: farming animations2_12
       rect:
         serializedVersion: 2
         x: 0
@@ -318,14 +402,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3eaac3ec32acbe743a1c80b830f08fe8
-      internalID: -1711165048
+      spriteID: afbb83fe244d14542a9035ffea63fd68
+      internalID: 1079818180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_9
+      name: farming animations2_13
       rect:
         serializedVersion: 2
         x: 24
@@ -339,14 +423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2663e87d2ea255459b4535865b2eb56
-      internalID: 263757845
+      spriteID: 9c2da604ae7bc4849af668fc74a4d254
+      internalID: 1319420917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_10
+      name: farming animations2_14
       rect:
         serializedVersion: 2
         x: 48
@@ -360,14 +444,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ebd93da168b0b744194d7251dde7294e
-      internalID: 1439876640
+      spriteID: a1062b6e707434444b6f412394d76a09
+      internalID: -458378776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: farming animations_11
+      name: farming animations2_15
       rect:
         serializedVersion: 2
         x: 72
@@ -381,8 +465,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa0e0a02fe6ee624ca56af325f3a4745
-      internalID: 2104671604
+      spriteID: e06e9b0f8efec094b82ea8cd79993af9
+      internalID: -1561345026
       vertices: []
       indices: 
       edges: []
@@ -398,18 +482,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      farming animations_0: -738902627
-      farming animations_1: -355357295
-      farming animations_10: 1439876640
-      farming animations_11: 2104671604
-      farming animations_2: -983585945
-      farming animations_3: -862259788
-      farming animations_4: -548068466
-      farming animations_5: -938162424
-      farming animations_6: 1950393110
-      farming animations_7: 59116284
-      farming animations_8: -1711165048
-      farming animations_9: 263757845
+      farming animations2_0: -737819551
+      farming animations2_1: -1878215548
+      farming animations2_10: -1362040975
+      farming animations2_11: 683234438
+      farming animations2_12: 1079818180
+      farming animations2_13: 1319420917
+      farming animations2_14: -458378776
+      farming animations2_15: -1561345026
+      farming animations2_2: -397462521
+      farming animations2_3: 1083784151
+      farming animations2_4: 219655259
+      farming animations2_5: 534002838
+      farming animations2_6: -793613847
+      farming animations2_7: -213514146
+      farming animations2_8: 757169488
+      farming animations2_9: 1469792765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
