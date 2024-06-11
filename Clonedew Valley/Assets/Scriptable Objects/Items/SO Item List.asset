@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 356f584206f986c419ee6216a6f07cb7, type: 3}
-  m_Name: SO Seeds and Eggs
+  m_Name: SO Item List
   m_EditorClassIdentifier: 
   itemDetails:
   - itemNumber: 10025
@@ -252,4 +252,34 @@ MonoBehaviour:
     canBePickedUp: 1
     canBeDropped: 1
     canBeEaten: 1
+    canBeCarried: 1
+  - itemNumber: 10027
+    itemType: 4
+    itemDescription: Stone
+    itemSprite: {fileID: 301436726, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10028
+    itemType: 4
+    itemDescription: Oak Wood
+    itemSprite: {fileID: -1822232183, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
+    canBeCarried: 1
+  - itemNumber: 10029
+    itemType: 4
+    itemDescription: Birch Wood
+    itemSprite: {fileID: -1700495510, guid: 7e4925bfc0f14284293b4fa5e4574929, type: 3}
+    itemUseGridRadius: 0
+    isStartingItem: 0
+    canBePickedUp: 1
+    canBeDropped: 1
+    canBeEaten: 0
     canBeCarried: 1
