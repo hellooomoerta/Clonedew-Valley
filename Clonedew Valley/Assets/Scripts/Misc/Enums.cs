@@ -11,6 +11,7 @@ public enum ItemType
     Chopping_Tool,
     Breaking_Tool,
     Furniture,
+    Reapable_Scenery,
     none,
     count
 }
