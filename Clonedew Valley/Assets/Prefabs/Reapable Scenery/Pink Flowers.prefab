@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &1681444058652740399
+--- !u!1001 &6757812350626664296
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -9,13 +9,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 752785610334131724, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
+      propertyPath: m_Size.x
+      value: 0.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 752785610334131724, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
       propertyPath: m_Size.y
-      value: 0.9375
+      value: 0.8125
       objectReference: {fileID: 0}
     - target: {fileID: 752785610334131724, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -733332096, guid: 8f53296f35d3bbf43a3de254139fb697, type: 3}
+      objectReference: {fileID: 1086134525, guid: 8f53296f35d3bbf43a3de254139fb697, type: 3}
     - target: {fileID: 752785610334131724, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
       propertyPath: m_WasSpriteAssigned
       value: 1
@@ -62,23 +66,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2198978253696158733, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
       propertyPath: m_Name
-      value: Bush Reapable
+      value: Pink Flowers
       objectReference: {fileID: 0}
     - target: {fileID: 5994389388500410188, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
       propertyPath: _itemCode
-      value: 28
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 6691141496132427597, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
       propertyPath: m_Radius
-      value: 0.35439283
-      objectReference: {fileID: 0}
-    - target: {fileID: 6691141496132427597, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
-      propertyPath: m_Offset.x
-      value: -0.000000059604645
+      value: 0.19411513
       objectReference: {fileID: 0}
     - target: {fileID: 6691141496132427597, guid: 1cb0c58d3b20aff48ae28a650daa3e5c, type: 3}
       propertyPath: m_Offset.y
-      value: 0.3650928
+      value: 0.19232792
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

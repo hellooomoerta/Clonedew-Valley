@@ -283,3 +283,33 @@ MonoBehaviour:
     canBeDropped: 1
     canBeEaten: 0
     canBeCarried: 1
+  - itemNumber: 28
+    itemType: 10
+    itemDescription: Bush Reapable
+    itemSprite: {fileID: -733332096, guid: 8f53296f35d3bbf43a3de254139fb697, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemNumber: 29
+    itemType: 10
+    itemDescription: Pink Flowers
+    itemSprite: {fileID: 1086134525, guid: 8f53296f35d3bbf43a3de254139fb697, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0
+  - itemNumber: 30
+    itemType: 10
+    itemDescription: White Flowers
+    itemSprite: {fileID: -1483624119, guid: 8f53296f35d3bbf43a3de254139fb697, type: 3}
+    itemUseGridRadius: 2
+    isStartingItem: 0
+    canBePickedUp: 0
+    canBeDropped: 0
+    canBeEaten: 0
+    canBeCarried: 0

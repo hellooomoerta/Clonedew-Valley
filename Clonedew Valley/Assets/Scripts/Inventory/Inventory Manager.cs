@@ -9,8 +9,9 @@ public class InventoryManager : SingletonMonobehaviour<InventoryManager>
 
     private Dictionary<int, ItemDetails> itemDetailsDictionary;
 
-    private void Start()
+    protected override void Awake()
     {
+        base.Awake();
         CreateItemDetailsDictionary();
     }
 
